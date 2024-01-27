@@ -1,2 +1,2 @@
 # aidi-2004
-A repository for all AIDI-2004 assignments
+This program performs basic arithmetic calculations using two numbers that are provided by the user.
